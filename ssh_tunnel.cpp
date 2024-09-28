@@ -5,8 +5,8 @@
 
 int main() {
     // 配置参数
-    std::string username = "hjc";
-    std::string remote_ip = "14.23.154.117";
+    std::string username = "***";
+    std::string remote_ip = "*********";
     int remote_port = 30000;
     int start_port = 28000;
     int end_port = 28100;
